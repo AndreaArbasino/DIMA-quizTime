@@ -12,5 +12,6 @@ Flutter is a framework developed by Google to create cross-platform applications
 **QuizTime** is an application that empowers users to create, edit, share and take quizzes effortlessly.  
 With QuizTime, users will have the ability to craft a diverse range of quizzes, from educational assessments to fun and interactive trivia games, reaching a wide spectrum of audiences.
 
-The code is not publicly available for privacy and security reasons. A Design Document (DD) is available with the description of the functionalities and main screens of the application: [DD](https://github.com/AndreaArbasino/DIMA-quizTime/blob/main/DesignDocument/QuizTime_DD.pdf).
+The code is not publicly available for privacy and security reasons.\
+However, the Design Document (DD) is available with the description of the functionalities and main screens of the application: [DD](https://github.com/AndreaArbasino/DIMA-quizTime/blob/main/DesignDocument/QuizTime_DD.pdf).
 
